@@ -6,7 +6,7 @@ Aplicativo web de Prontuário Socorrista para o Pronto Atendimento Institucional
 </div>
 
 # :notebook_with_decorative_cover: Conteúdo
-- [Sobre o Projeto](#star2-about-the-project)
+- [Sobre o Projeto](#star2-sobre-o-projeto)
   * [Screenshots](#camera-screenshots)
   * [Tech Stack](#space_invader-tech-stack)
   * [Features](#dart-features)
@@ -25,10 +25,7 @@ Aplicativo web de Prontuário Socorrista para o Pronto Atendimento Institucional
 - [Contato](#handshake-contact)
 - [Agradecimentos](#gem-acknowledgements)
 
-<!-- About the Project -->
 ## :star2: Sobre o Projeto
-
-## Introdução
 O projeto tem como o objetivo a criação de um aplicativo web para o preenchimento de formulários de atendimento socorrista do PAI (Pronto Atendimento Institucional da UNIESP), visando modernizar e otimizar o processo de atendimento, garantindo maior eficiência, segurança e organização nos registros. Este projeto visa melhorar a qualidade do atendimento, facilitar o acesso às informações e promover uma gestão mais eficaz dos serviços de saúde dentro da universidade.
 
 ## Documentação
