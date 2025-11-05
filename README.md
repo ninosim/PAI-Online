@@ -1,4 +1,7 @@
-# PAI Online
+<div align="center">
+
+  <img src="assets/pai_logo.png" alt="logo" width="200" height="auto" />
+  <h1>PAI Online</h1>
 Aplicativo web de Prontuário Socorrista para o Pronto Atendimento Institucional da UNIESP.
 
 ## Introdução
